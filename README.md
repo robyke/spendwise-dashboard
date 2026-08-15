@@ -83,7 +83,11 @@ The dark theme works by overriding the CSS variables without changing the dashbo
 * `index.html` - Contains the dashboard structure and static financial information.
 * `style.css` - Contains the dashboard layout, colors, responsive design, and animations.
 * `README.md` - Explains what the project contains and how the major parts work.
+## What's Coming Next
 
+This version of SpendWise focuses on the visual dashboard structure and responsive design. The financial information currently displayed is static sample data.
+
+JavaScript functionality starts next week. The next stage of the project will add interactive features such as entering expenses, calculating totals, updating spending categories, and making the dashboard respond to user input.
 ## Author
 
 Robin
